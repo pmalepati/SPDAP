@@ -8,6 +8,13 @@ Feature: Reports feature
     Then page title should be "About"
     When user click on Reports Module
 
+     #  ############################################
+    #
+    #  Module name ---> Reports
+    #
+    #  Sub-module ---> Applications Summary Report
+    #
+    #  #############################################
   @ApplicationsSummaryReport
   Scenario: Applications Summary Report
     When user click on Applications Summary Report
@@ -19,6 +26,13 @@ Feature: Reports feature
     When user click on Excel button in Applications Summary Report
     When user click on Print button in Applications Summary Report
 
+    #  ############################################
+    #
+    #  Module name ---> Reports
+    #
+    #  Sub-module ---> Applications Pended Detail Report
+    #
+    #  #############################################
   @ApplicationsPendedDetailReport
   Scenario: Applications Pended Detail Report
     When user click on Applications Pended Detail Report
@@ -30,6 +44,13 @@ Feature: Reports feature
     When user click on generate button in Applications Pended Detail Report
     When user click on Print button in Applications Pended Detail Report
 
+     #  ############################################
+    #
+    #  Module name ---> Reports
+    #
+    #  Sub-module ---> Membership by Month Report
+    #
+    #  #############################################
   @MembershipbyMonthReport
   Scenario: Membership by Month Report
     When user click on Membership by Month Report
@@ -40,6 +61,13 @@ Feature: Reports feature
     When user click on generate button in Membership by Month Report
     When user click on Print button in Membership by Month Report
 
+     #  ############################################
+    #
+    #  Module name ---> Reports
+    #
+    #  Sub-module --->  Terminated Members Report
+    #
+    #  #############################################
   @TerminatedMembersReport
   Scenario: Terminated Members Report
     When user click on Terminated Members Report
@@ -51,6 +79,13 @@ Feature: Reports feature
     When user click on generate button in Terminated Members Report
     When user click on Print button in Terminated Members Report
 
+     #  ############################################
+    #
+    #  Module name ---> Reports
+    #
+    #  Sub-module --->  Membership by County
+    #
+    #  #############################################
   @MembershipbyCounty
   Scenario: Membership by County
     When user click on Membership by County
@@ -62,6 +97,13 @@ Feature: Reports feature
     When user click on generate button in Membership by County
     When user click on Print button in Membership by County
 
+     #  ############################################
+    #
+    #  Module name ---> Reports
+    #
+    #  Sub-module ---> Membership Distribution by Plan
+    #
+    #  #############################################
   @MembershipDistributionbyPlan
   Scenario: Membership Distribution by Plan
     When user click on Membership Distribution by Plan

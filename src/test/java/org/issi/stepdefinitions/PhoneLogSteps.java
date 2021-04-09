@@ -15,6 +15,7 @@ import org.issi.pages.BasePage;
 import org.issi.utilities.ExcelReader;
 import org.issi.utilities.PropertyUtils;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 
@@ -40,6 +41,7 @@ public class PhoneLogSteps {
     public String CallReasonType;
     public String CallStartTime;
     public String CallEndTime;
+
     /*
      * ##############################################################
      *
@@ -70,16 +72,17 @@ public class PhoneLogSteps {
     @Then("User enter in to Add_Edit Call Log page and enter details from given sheet name {string} and {int}")
     public void user_enter_in_to_add_edit_call_log_page_and_enter_details_from_given_sheet_name_and(String sheetname, Integer rownumber) {
         ExcelReader reader = new ExcelReader();
+
         try {
             testdata = reader.getData(FrameworkConstants.getExcelFilePath(), sheetname);
 
             //Contact Information
             String ExistingMember = testdata.get(rownumber).get("ExistingMember");
             String MemberID = testdata.get(rownumber).get("MemberID");
-            if (ExistingMember.equalsIgnoreCase("Yes")){
+            if (ExistingMember.equalsIgnoreCase("existing member")){
                 clickOnExistingMember(ExistingMember);
                 enterMemberID(MemberID);
-            }else if (ExistingMember.equalsIgnoreCase("No")){
+            }else if (ExistingMember.equalsIgnoreCase("PDP")){
                 clickOnExistingMember(ExistingMember);
             }
 
@@ -159,6 +162,8 @@ public class PhoneLogSteps {
             //Call End Time
             CallEndTime = testdata.get(rownumber).get("CallEndTime");
             enterCallEndTime(CallEndTime);
+
+            System.out.println(CallStartTime+ " "+ CallEndTime);
 
             //Call Notes
             String CallNotes = testdata.get(rownumber).get("CallNotes");
@@ -247,14 +252,16 @@ public class PhoneLogSteps {
             e.printStackTrace();
         }
     }
+
     @Then("user click on save from given sheet name")
     public void user_click_on_save_from_given_sheet_name() {
         clickOnButtons();
-        waitupto(3000);
+        waitupto(1000);
     }
+
     @Then("User search the value from given sheet name {string} and {int}")
     public void user_search_the_value_from_given_sheet_name_and(String sheetname, Integer rownumber) {
-        waitupto(3000);
+        waitupto(1000);
         // Search value by phoneType;
         String SearchRecord = testdata.get(rownumber).get("SearchRecord");
         if (SearchRecord.equalsIgnoreCase("PhoneType")) {

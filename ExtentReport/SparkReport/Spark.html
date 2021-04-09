@@ -35,7 +35,7 @@
 <a href="#"><span class="badge badge-primary">Maryland Resident Portal Test Execution Report</span></a>
 </li>
 <li class="m-r-10">
-<a href="#"><span class="badge badge-primary">Apr 5, 2021 06:22:36 PM</span></a>
+<a href="#"><span class="badge badge-primary">Apr 7, 2021 12:09:23 PM</span></a>
 </li>
 </ul>
 </div>
@@ -66,25 +66,25 @@
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Started</p>
-<h3>Apr 5, 2021 06:22:36 PM</h3>
+<h3>Apr 7, 2021 12:09:23 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0">Ended</p>
-<h3>Apr 5, 2021 06:24:17 PM</h3>
+<h3>Apr 7, 2021 12:09:47 PM</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0 text-pass">Features Passed</p>
-<h3>1</h3>
+<h3>0</h3>
 </div></div>
 </div>
 <div class="col-md-3">
 <div class="card"><div class="card-body">
 <p class="m-b-0 text-fail">Features Failed</p>
-<h3>0</h3>
+<h3>1</h3>
 </div></div>
 </div>
 </div>
@@ -100,12 +100,12 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='100%'>
-<b>1</b> features passed
+<div><small data-tooltip='0%'>
+<b>0</b> features passed
 </small>
 </div>
 <div>
-<small data-tooltip='0%'><b>0</b> features failed,
+<small data-tooltip='100%'><b>1</b> features failed,
 <b>0</b> skipped, <b data-tooltip='0%'>0</b> others
 </small>
 </div>
@@ -123,9 +123,9 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='100%'><b>1</b> scenarios passed</small></div>
+<div><small data-tooltip='0%'><b>0</b> scenarios passed</small></div>
 <div>
-<small data-tooltip='0%'><b>0</b> scenarios failed,
+<small data-tooltip='100%'><b>1</b> scenarios failed,
 <b>0</b> skipped, <b data-tooltip='%'>0</b> others
 </small>
 </div>
@@ -143,10 +143,10 @@
 </div>
 </div>
 <div class="card-footer">
-<div><small data-tooltip='100%'><b>12</b> steps passed</small></div>
+<div><small data-tooltip='25%'><b>3</b> steps passed</small></div>
 <div>
-<small data-tooltip='0%'><b>0</b> steps failed,
-<b>0</b> skipped, <b data-tooltip='%'>0</b> others
+<small data-tooltip='8%'><b>1</b> steps failed,
+<b>8</b> skipped, <b data-tooltip='%'>0</b> others
 </small>
 </div>
 </div>
@@ -162,7 +162,7 @@
 </div></div>
 <script>
 var timeline = {
-"Reports feature":100.152
+"COB Processing feature":22.423
 };
 </script>
 <div class="row">
@@ -172,12 +172,12 @@ var timeline = {
 <div class="card-body pb-0 pt-0"><table class="table table-sm table-bordered">
 <thead><tr class="bg-gray"><th>Name</th><th>Passed</th><th>Failed</th><th>Skipped</th><th>Others</th><th>Passed %</th></tr></thead><tbody>
 <tr>
-<td>@MembershipDistributionbyPlan</td>
+<td>@GenerateCOBInputFile</td>
+<td>0</td>
 <td>1</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>100%</td>
+<td>0%</td>
 </tr>
 </tbody>
 </table></div>
@@ -210,21 +210,21 @@ var timeline = {
 <script>
 var statusGroup = {
 parentCount: 5,
-passParent: 1,
-failParent: 0,
+passParent: 0,
+failParent: 1,
 warningParent: 0,
 skipParent: 0,
 childCount: 5,
-passChild: 1,
-failChild: 0,
+passChild: 0,
+failChild: 1,
 warningChild: 0,
 skipChild: 0,
 infoChild: 0,
 grandChildCount: 5,
-passGrandChild: 12,
-failGrandChild: 0,
+passGrandChild: 3,
+failGrandChild: 1,
 warningGrandChild: 0,
-skipGrandChild: 0,
+skipGrandChild: 8,
 infoGrandChild: 0,
 eventsCount: 5,
 };
@@ -238,7 +238,7 @@ eventsCount: 5,
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-exclamation-circle"></i></a>
 <ul id="status-toggle" class="dropdown-menu dropdown-md p-v-0">
-<a class="dropdown-item" status="pass" href="#"><span>Pass</span><span class="status success"></span></a>
+<a class="dropdown-item" status="fail" href="#"><span>Fail</span><span class="status danger"></span></a>
 <div class="dropdown-divider"></div>
 <a status="clear" class="dropdown-item" href="#"><span>Clear</span><span class="pull-right"><i class="fa fa-close"></i></span></a>
 </ul>
@@ -246,31 +246,31 @@ eventsCount: 5,
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-tag"></i></a>
 <ul id="tag-toggle" class="dropdown-menu dropdown-md p-v-0">
-<a class="dropdown-item" href="#">@MembershipDistributionbyPlan</a>
+<a class="dropdown-item" href="#">@GenerateCOBInputFile</a>
 </ul>
 </li>
 </ul>
 </div>    <div class="test-list-wrapper scrollable">
       <ul class="test-list-item">
-        <li class="test-item"  status="pass" test-id="1"
+        <li class="test-item"  status="fail" test-id="1"
           author=""
           tag=""
           device="">
           <div class="test-detail">
-            <p class="name">Reports feature</p>
+            <p class="name">COB Processing feature</p>
             <p class="text-sm">
-              <span>18:22:37 PM</span> / <span>00:01:40:152</span>
-              <span class="badge pass-bg log float-right">Pass</span>
+              <span>12:09:24 PM</span> / <span>00:00:22:423</span>
+              <span class="badge fail-bg log float-right">Fail</span>
             </p>
           </div>
           <div class="test-contents d-none">
 <div class="detail-head">
 <div class="p-v-10">
 <div class="info">
-<h5 class="test-status text-pass">Reports feature</h5>
-<span class='badge badge-success'>04.05.2021 18:22:37</span>
-<span class='badge badge-danger'>04.05.2021 18:24:17</span>
-<span class='badge badge-default'>00:01:40:152</span>
+<h5 class="test-status text-fail">COB Processing feature</h5>
+<span class='badge badge-success'>04.07.2021 12:09:24</span>
+<span class='badge badge-danger'>04.07.2021 12:09:47</span>
+<span class='badge badge-default'>00:00:22:423</span>
 &middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
 </div>
 <div class="m-t-10 m-l-5"></div>
@@ -280,10 +280,10 @@ eventsCount: 5,
   <div class="card">
     <div class="card-header" role="tab">
       <div class="card-title">
-        <div class="node" id="2"><span class="badge log pass-bg mr-2">Pass</span>Membership Distribution by Plan</div>
+        <div class="node" id="2"><span class="badge log fail-bg mr-2">Fail</span>Generating new COB Input file</div>
       </div>
     </div>
-        <div class="collapse">
+        <div class="">
           <div class="card-body">
               <div class="step pass-bg" title="org.issi.stepdefinitions.PhoneLogSteps.user_has_already_logged_in_to_application(io.cucumber.datatable.DataTable)">
                 <span>Given user has already logged in to application</span>
@@ -302,49 +302,49 @@ eventsCount: 5,
       <div>
       </div>
               </div>
-              <div class="step pass-bg" title="org.issi.stepdefinitions.Reports_ApplicationsSummaryReport.user_click_on_reports_module()">
-                <span>When user click on Reports Module</span>
-      <div>
+              <div class="step fail-bg" >
+                <span>When user clicks on COB Processing menu</span>
+      <div>Step undefined
       </div>
               </div>
-              <div class="step pass-bg" title="org.issi.stepdefinitions.Reports_MembershipDistributionbyPlan.user_click_on_membership_distribution_by_plan()">
-                <span>When user click on Membership Distribution by Plan</span>
-      <div>
+              <div class="step skip-bg" >
+                <span>When user click on COBInput module</span>
+      <div>Step skipped
       </div>
               </div>
-              <div class="step pass-bg" title="org.issi.stepdefinitions.LoginSteps.user_gets_the_title_of_the_page()">
+              <div class="step skip-bg" title="org.issi.stepdefinitions.LoginSteps.user_gets_the_title_of_the_page()">
                 <span>When user gets the title of the page</span>
-      <div>
+      <div>Step skipped
       </div>
               </div>
-              <div class="step pass-bg" title="org.issi.stepdefinitions.LoginSteps.page_title_should_be(java.lang.String)">
-                <span>Then page title should be "MembershipbyDistributionbyPlan"</span>
-      <div>
+              <div class="step skip-bg" title="org.issi.stepdefinitions.LoginSteps.page_title_should_be(java.lang.String)">
+                <span>Then page title should be "Index"</span>
+      <div>Step skipped
       </div>
               </div>
-              <div class="step pass-bg" title="org.issi.stepdefinitions.Reports_MembershipDistributionbyPlan.user_select_the_value_in_Organizations_field_in_membership_distribution_by_plan()">
-                <span>When user select the value in Organizations field in Membership Distribution by Plan</span>
-      <div>
+              <div class="step skip-bg" >
+                <span>When user click on Generate COB Input File tab</span>
+      <div>Step skipped
       </div>
               </div>
-              <div class="step pass-bg" title="org.issi.stepdefinitions.Reports_MembershipDistributionbyPlan.user_select_the_value_in_month_dropdown_field_in_membership_distribution_by_plan()">
-                <span>When user select the value in Month dropdown field in Membership Distribution by Plan</span>
-      <div>
+              <div class="step skip-bg" >
+                <span>When user select the value in Year dropdown field in Generate COB File</span>
+      <div>Step skipped
       </div>
               </div>
-              <div class="step pass-bg" title="org.issi.stepdefinitions.Reports_MembershipDistributionbyPlan.user_select_the_value_in_year_dropdown_field_in_membership_distribution_by_plan()">
-                <span>When user select the value in Year dropdown field in Membership Distribution by Plan</span>
-      <div>
+              <div class="step skip-bg" >
+                <span>When user select the value in month dropdown field in Generate COB File</span>
+      <div>Step skipped
       </div>
               </div>
-              <div class="step pass-bg" title="org.issi.stepdefinitions.Reports_MembershipDistributionbyPlan.user_click_on_generate_button_in_membership_distribution_by_plan()">
-                <span>When user click on generate button in Membership Distribution by Plan</span>
-      <div>
+              <div class="step skip-bg" >
+                <span>When user enter the value in file Name text field in Generate COB File</span>
+      <div>Step skipped
       </div>
               </div>
-              <div class="step pass-bg" title="org.issi.stepdefinitions.Reports_MembershipDistributionbyPlan.user_click_on_print_button_in_membership_distribution_by_plan()">
-                <span>When user click on Print button in Membership Distribution by Plan</span>
-      <div>
+              <div class="step skip-bg" >
+                <span>And user click on generate the file in Generate COB File</span>
+      <div>Step skipped
       </div>
               </div>
           </div>
@@ -373,15 +373,15 @@ eventsCount: 5,
 <li class="test-item">
 <div class="test-detail">
 <span class="meta">
-<span class='badge log pass-bg'>1</span>
+<span class='badge log badge-danger'>1</span>
 </span>
-<p class="name">@MembershipDistributionbyPlan</p>
+<p class="name">@GenerateCOBInputFile</p>
 <p class="duration text-sm">1 tests</p>
 </div>
 <div class="test-contents d-none">
 <div class="info">
-<h4>@MembershipDistributionbyPlan</h4>
-<span status="pass" class='badge log pass-bg'>1 passed</span>
+<h4>@GenerateCOBInputFile</h4>
+<span status="fail" class='badge log badge-danger'>1 failed</span>
 </div>
 <table class='table table-sm mt-4'>
 <thead>
@@ -392,13 +392,13 @@ eventsCount: 5,
 </tr>
 </thead>
 <tbody>
-<tr class="tag-test-status" status="pass">
-<td><span class="badge log pass-bg">Pass</span></td>
-<td>18:22:37 PM</td>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>12:09:24 PM</td>
 <td>
-<a href="#" class="linked" test-id='1' id='2'>Membership Distribution by Plan</a>
+<a href="#" class="linked" test-id='1' id='2'>Generating new COB Input file</a>
 <div class="">
-<span class="badge badge-default">Reports feature.Membership Distribution by Plan</span>
+<span class="badge badge-default">COB Processing feature.Generating new COB Input file</span>
 </div>
 </td>
 </tr>

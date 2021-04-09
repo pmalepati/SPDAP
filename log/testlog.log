@@ -4700,3 +4700,340 @@
 2021-04-05 18:23:03,963 - SPDAP -INFO - Clicked on Year DropDown
 2021-04-05 18:23:07,333 - SPDAP -INFO - Clicked on Generate Button
 2021-04-05 18:24:17,761 - SPDAP -INFO -chrome was closed successfully
+2021-04-05 19:24:34,043 - SPDAP -INFO -chrome was started successfully
+2021-04-05 19:24:34,663 - SPDAP -INFO -Entered username as Admin 
+2021-04-05 19:24:34,798 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-05 19:24:42,628 - SPDAP -INFO -clicked on login button
+2021-04-05 19:24:42,972 - SPDAP -INFO - Clicked on Reports Module
+2021-04-05 19:24:45,424 - SPDAP -INFO - Clicked on Membership Distribution by Plan
+2021-04-05 19:24:46,702 - SPDAP -INFO - Clicked on Organizations DropDown
+2021-04-05 19:24:50,177 - SPDAP -INFO - Clicked on Month DropDown
+2021-04-05 19:24:53,630 - SPDAP -INFO - Clicked on Year DropDown
+2021-04-05 19:24:57,066 - SPDAP -INFO - Clicked on Generate Button
+2021-04-05 19:26:07,244 - SPDAP -INFO -chrome was closed successfully
+2021-04-05 19:28:52,529 - SPDAP -INFO -chrome was started successfully
+2021-04-05 19:28:53,099 - SPDAP -INFO -Entered username as Admin 
+2021-04-05 19:28:53,239 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-05 19:29:05,695 - SPDAP -INFO -clicked on login button
+2021-04-05 19:29:05,995 - SPDAP -INFO - Clicked on Reports Module
+2021-04-05 19:29:08,289 - SPDAP -INFO - Clicked on Application Summery Report
+2021-04-05 19:29:09,553 - SPDAP -INFO - Clicked on Month DropDown
+2021-04-05 19:29:14,176 - SPDAP -INFO - Clicked on Year DropDown
+2021-04-05 19:29:19,077 - SPDAP -INFO - Clicked on Generate Button
+2021-04-05 19:29:33,909 - SPDAP -INFO -chrome was closed successfully
+2021-04-05 19:29:39,572 - SPDAP -INFO -chrome was started successfully
+2021-04-05 19:29:40,076 - SPDAP -INFO -Entered username as Admin 
+2021-04-05 19:29:40,207 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-05 19:29:48,047 - SPDAP -INFO -clicked on login button
+2021-04-05 19:29:48,231 - SPDAP -INFO - Clicked on Reports Module
+2021-04-05 19:29:50,465 - SPDAP -INFO - Clicked on Applications Pended Detail Report
+2021-04-05 19:29:51,709 - SPDAP -INFO - Clicked on ReasonCode DropDown
+2021-04-05 19:29:55,106 - SPDAP -INFO - Clicked on Month DropDown
+2021-04-05 19:29:58,620 - SPDAP -INFO - Clicked on Year DropDown
+2021-04-05 19:30:03,650 - SPDAP -INFO - Clicked on Generate Button
+2021-04-05 19:30:17,182 - SPDAP -INFO -chrome was closed successfully
+2021-04-05 19:30:22,373 - SPDAP -INFO -chrome was started successfully
+2021-04-05 19:30:22,836 - SPDAP -INFO -Entered username as Admin 
+2021-04-05 19:30:23,006 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-05 19:30:35,515 - SPDAP -INFO -clicked on login button
+2021-04-05 19:30:35,705 - SPDAP -INFO - Clicked on Reports Module
+2021-04-05 19:30:37,937 - SPDAP -INFO - Clicked on Membership by Month Report
+2021-04-05 19:30:39,234 - SPDAP -INFO - Clicked on Month DropDown
+2021-04-05 19:30:42,644 - SPDAP -INFO - Clicked on Year DropDown
+2021-04-05 19:30:47,688 - SPDAP -INFO - Clicked on Generate Button
+2021-04-05 19:31:00,393 - SPDAP -INFO -chrome was closed successfully
+2021-04-05 19:31:05,723 - SPDAP -INFO -chrome was started successfully
+2021-04-05 19:31:06,202 - SPDAP -INFO -Entered username as Admin 
+2021-04-05 19:31:06,361 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-05 19:31:22,205 - SPDAP -INFO -clicked on login button
+2021-04-05 19:31:22,382 - SPDAP -INFO - Clicked on Reports Module
+2021-04-05 19:31:24,814 - SPDAP -INFO - Clicked on Terminated Members Report
+2021-04-05 19:31:26,050 - SPDAP -INFO - Clicked on ReasonCode DropDown
+2021-04-05 19:31:29,518 - SPDAP -INFO - Clicked on Month DropDown
+2021-04-05 19:31:32,853 - SPDAP -INFO - Clicked on Year DropDown
+2021-04-05 19:31:37,780 - SPDAP -INFO - Clicked on Generate Button
+2021-04-05 19:31:52,041 - SPDAP -INFO -chrome was closed successfully
+2021-04-05 19:31:58,235 - SPDAP -INFO -chrome was started successfully
+2021-04-05 19:31:58,750 - SPDAP -INFO -Entered username as Admin 
+2021-04-05 19:31:58,907 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-05 19:32:27,602 - SPDAP -INFO -clicked on login button
+2021-04-05 19:32:27,784 - SPDAP -INFO - Clicked on Reports Module
+2021-04-05 19:32:30,054 - SPDAP -INFO - Clicked on Membership by County
+2021-04-05 19:32:31,254 - SPDAP -INFO - Clicked on County Name :
+2021-04-05 19:32:34,679 - SPDAP -INFO - Clicked on Month DropDown
+2021-04-05 19:32:38,120 - SPDAP -INFO - Clicked on Year DropDown
+2021-04-05 19:32:43,112 - SPDAP -INFO - Clicked on Generate Button
+2021-04-05 19:32:56,892 - SPDAP -INFO -chrome was closed successfully
+2021-04-05 19:33:06,544 - SPDAP -INFO -chrome was started successfully
+2021-04-05 19:33:07,202 - SPDAP -INFO -Entered username as Admin 
+2021-04-05 19:33:07,333 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-05 19:33:17,910 - SPDAP -INFO -clicked on login button
+2021-04-05 19:33:18,069 - SPDAP -INFO - Clicked on Reports Module
+2021-04-05 19:33:20,250 - SPDAP -INFO - Clicked on Membership Distribution by Plan
+2021-04-05 19:33:21,463 - SPDAP -INFO - Clicked on Organizations DropDown
+2021-04-05 19:33:24,842 - SPDAP -INFO - Clicked on Month DropDown
+2021-04-05 19:33:28,247 - SPDAP -INFO - Clicked on Year DropDown
+2021-04-05 19:33:31,570 - SPDAP -INFO - Clicked on Generate Button
+2021-04-05 19:34:41,111 - SPDAP -INFO -chrome was closed successfully
+2021-04-06 10:52:22,409 - SPDAP -INFO -chrome was started successfully
+2021-04-06 10:52:23,106 - SPDAP -INFO -Entered username as Admin 
+2021-04-06 10:52:23,252 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-06 10:52:31,621 - SPDAP -INFO -clicked on login button
+2021-04-06 10:52:35,031 - SPDAP -INFO - Clicked on Phone Log
+2021-04-06 10:52:38,249 - SPDAP -INFO - Clicked on Add New PhoneLog
+2021-04-06 10:52:41,005 - SPDAP -INFO - Clicked on Existing Member ->existing member
+2021-04-06 10:52:41,234 - SPDAP -INFO -Entered MemberID Number -> as 12
+2021-04-06 10:52:42,849 - SPDAP -INFO -selected  document type -> as SilverScript Choice (PDP)
+2021-04-06 10:52:44,297 - SPDAP -INFO -selected  phone Value -> as Mobile Phone
+2021-04-06 10:52:44,470 - SPDAP -INFO -Entered Registered Phone Number -> as (333) 555-5555
+2021-04-06 10:52:45,648 - SPDAP -INFO -Entered ext Value -> as 12345
+2021-04-06 10:52:47,139 - SPDAP -INFO -selected  Title Value -> as Mr.
+2021-04-06 10:52:48,337 - SPDAP -INFO -Entered first Name -> as Puneeth
+2021-04-06 10:52:49,544 - SPDAP -INFO -Entered last Name -> as Malepati
+2021-04-06 10:52:50,761 - SPDAP -INFO -Entered middle Name -> as None
+2021-04-06 10:52:52,030 - SPDAP -INFO -Entered Email Value -> as puneethmalepati@gmail.com
+2021-04-06 10:52:53,314 - SPDAP -INFO -Entered address Value -> as ISSI-HYD
+2021-04-06 10:52:54,503 - SPDAP -INFO -Entered city Value -> as ISSIHYD
+2021-04-06 10:52:55,998 - SPDAP -INFO -selected  state Value -> as Alaska
+2021-04-06 10:52:57,595 - SPDAP -INFO -selected  county Value -> as Bethel Census Area
+2021-04-06 10:52:58,778 - SPDAP -INFO -Entered zipCode Value -> as 12345
+2021-04-06 10:53:00,304 - SPDAP -INFO -selected  call Type Value -> as Inquiring about PDP Options
+2021-04-06 10:53:01,764 - SPDAP -INFO -selected  Call Reason Value -> as Call Reason
+2021-04-06 10:53:15,480 - SPDAP -INFO -Entered call Date Value -> as 04/06/2021
+2021-04-06 10:53:26,717 - SPDAP -INFO -Entered Call Start Time -> as 0.00706018518518518
+2021-04-06 10:54:48,114 - SPDAP -INFO -chrome was started successfully
+2021-04-06 10:54:48,661 - SPDAP -INFO -Entered username as Admin 
+2021-04-06 10:54:48,792 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-06 10:54:56,934 - SPDAP -INFO -clicked on login button
+2021-04-06 10:55:00,471 - SPDAP -INFO - Clicked on Phone Log
+2021-04-06 10:55:03,681 - SPDAP -INFO - Clicked on Add New PhoneLog
+2021-04-06 10:55:06,043 - SPDAP -INFO - Clicked on Existing Member ->existing member
+2021-04-06 10:55:06,249 - SPDAP -INFO -Entered MemberID Number -> as 12
+2021-04-06 10:55:07,785 - SPDAP -INFO -selected  document type -> as SilverScript Choice (PDP)
+2021-04-06 10:55:09,261 - SPDAP -INFO -selected  phone Value -> as Mobile Phone
+2021-04-06 10:55:09,453 - SPDAP -INFO -Entered Registered Phone Number -> as (333) 555-5555
+2021-04-06 10:55:10,624 - SPDAP -INFO -Entered ext Value -> as 12345
+2021-04-06 10:55:12,077 - SPDAP -INFO -selected  Title Value -> as Mr.
+2021-04-06 10:55:13,280 - SPDAP -INFO -Entered first Name -> as Puneeth
+2021-04-06 10:55:14,496 - SPDAP -INFO -Entered last Name -> as Malepati
+2021-04-06 10:55:15,684 - SPDAP -INFO -Entered middle Name -> as None
+2021-04-06 10:55:16,976 - SPDAP -INFO -Entered Email Value -> as puneethmalepati@gmail.com
+2021-04-06 10:55:18,208 - SPDAP -INFO -Entered address Value -> as ISSI-HYD
+2021-04-06 10:55:19,399 - SPDAP -INFO -Entered city Value -> as ISSIHYD
+2021-04-06 10:55:20,967 - SPDAP -INFO -selected  state Value -> as Alaska
+2021-04-06 10:55:22,535 - SPDAP -INFO -selected  county Value -> as Bethel Census Area
+2021-04-06 10:55:23,774 - SPDAP -INFO -Entered zipCode Value -> as 12345
+2021-04-06 10:55:25,316 - SPDAP -INFO -selected  call Type Value -> as Inquiring about PDP Options
+2021-04-06 10:55:26,828 - SPDAP -INFO -selected  Call Reason Value -> as Call Reason
+2021-04-06 10:55:33,746 - SPDAP -INFO -Entered call Date Value -> as 04/06/2021
+2021-04-06 10:55:45,461 - SPDAP -INFO -Entered Call Start Time -> as 00:10:10
+2021-04-06 10:55:51,251 - SPDAP -INFO -Entered Call EndTime Value -> as 00:10:12
+2021-04-06 11:01:21,362 - SPDAP -INFO -chrome was started successfully
+2021-04-06 11:01:21,945 - SPDAP -INFO -Entered username as Admin 
+2021-04-06 11:01:22,111 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-06 11:01:30,093 - SPDAP -INFO -clicked on login button
+2021-04-06 11:01:33,327 - SPDAP -INFO - Clicked on Phone Log
+2021-04-06 11:01:36,522 - SPDAP -INFO - Clicked on Add New PhoneLog
+2021-04-06 11:01:38,747 - SPDAP -INFO - Clicked on Existing Member ->existing member
+2021-04-06 11:01:38,952 - SPDAP -INFO -Entered MemberID Number -> as 12
+2021-04-06 11:01:40,552 - SPDAP -INFO -selected  document type -> as SilverScript Choice (PDP)
+2021-04-06 11:01:41,951 - SPDAP -INFO -selected  phone Value -> as Mobile Phone
+2021-04-06 11:01:42,154 - SPDAP -INFO -Entered Registered Phone Number -> as (333) 555-5555
+2021-04-06 11:01:43,335 - SPDAP -INFO -Entered ext Value -> as 12345
+2021-04-06 11:01:44,755 - SPDAP -INFO -selected  Title Value -> as Mr.
+2021-04-06 11:01:45,948 - SPDAP -INFO -Entered first Name -> as Puneeth
+2021-04-06 11:01:47,129 - SPDAP -INFO -Entered last Name -> as Malepati
+2021-04-06 11:01:48,275 - SPDAP -INFO -Entered middle Name -> as None
+2021-04-06 11:01:49,507 - SPDAP -INFO -Entered Email Value -> as puneethmalepati@gmail.com
+2021-04-06 11:01:50,716 - SPDAP -INFO -Entered address Value -> as ISSI-HYD
+2021-04-06 11:01:51,914 - SPDAP -INFO -Entered city Value -> as ISSIHYD
+2021-04-06 11:01:53,424 - SPDAP -INFO -selected  state Value -> as Alaska
+2021-04-06 11:01:54,991 - SPDAP -INFO -selected  county Value -> as Bethel Census Area
+2021-04-06 11:01:56,219 - SPDAP -INFO -Entered zipCode Value -> as 12345
+2021-04-06 11:01:57,745 - SPDAP -INFO -selected  call Type Value -> as Inquiring about PDP Options
+2021-04-06 11:01:59,215 - SPDAP -INFO -selected  Call Reason Value -> as Call Reason
+2021-04-06 11:02:06,764 - SPDAP -INFO -Entered call Date Value -> as 04/06/2021
+2021-04-06 11:02:11,151 - SPDAP -INFO -Entered Call Start Time -> as 00:10:10
+2021-04-06 11:02:13,769 - SPDAP -INFO -Entered Call EndTime Value -> as 00:10:12
+2021-04-06 11:03:32,263 - SPDAP -INFO -chrome was started successfully
+2021-04-06 11:03:32,748 - SPDAP -INFO -Entered username as Admin 
+2021-04-06 11:03:32,900 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-06 11:03:41,312 - SPDAP -INFO -clicked on login button
+2021-04-06 11:03:44,457 - SPDAP -INFO - Clicked on Phone Log
+2021-04-06 11:03:47,693 - SPDAP -INFO - Clicked on Add New PhoneLog
+2021-04-06 11:03:50,003 - SPDAP -INFO - Clicked on Existing Member ->existing member
+2021-04-06 11:03:50,181 - SPDAP -INFO -Entered MemberID Number -> as 12
+2021-04-06 11:03:51,747 - SPDAP -INFO -selected  document type -> as SilverScript Choice (PDP)
+2021-04-06 11:03:53,237 - SPDAP -INFO -selected  phone Value -> as Mobile Phone
+2021-04-06 11:03:53,416 - SPDAP -INFO -Entered Registered Phone Number -> as (333) 555-5555
+2021-04-06 11:03:54,580 - SPDAP -INFO -Entered ext Value -> as 12345
+2021-04-06 11:03:56,059 - SPDAP -INFO -selected  Title Value -> as Mr.
+2021-04-06 11:03:57,263 - SPDAP -INFO -Entered first Name -> as Puneeth
+2021-04-06 11:03:58,452 - SPDAP -INFO -Entered last Name -> as Malepati
+2021-04-06 11:03:59,637 - SPDAP -INFO -Entered middle Name -> as None
+2021-04-06 11:04:00,876 - SPDAP -INFO -Entered Email Value -> as puneethmalepati@gmail.com
+2021-04-06 11:04:02,112 - SPDAP -INFO -Entered address Value -> as ISSI-HYD
+2021-04-06 11:04:03,300 - SPDAP -INFO -Entered city Value -> as ISSIHYD
+2021-04-06 11:04:04,780 - SPDAP -INFO -selected  state Value -> as Alaska
+2021-04-06 11:04:06,341 - SPDAP -INFO -selected  county Value -> as Bethel Census Area
+2021-04-06 11:04:07,551 - SPDAP -INFO -Entered zipCode Value -> as 12345
+2021-04-06 11:04:09,075 - SPDAP -INFO -selected  call Type Value -> as Inquiring about PDP Options
+2021-04-06 11:04:10,489 - SPDAP -INFO -selected  Call Reason Value -> as Call Reason
+2021-04-06 11:04:17,294 - SPDAP -INFO -Entered call Date Value -> as 04/06/2021
+2021-04-06 11:04:20,565 - SPDAP -INFO -Entered Call Start Time -> as 00:10:10
+2021-04-06 11:04:27,724 - SPDAP -INFO -Entered Call EndTime Value -> as 00:10:12
+2021-04-06 11:17:48,847 - SPDAP -INFO -chrome was started successfully
+2021-04-06 11:17:49,377 - SPDAP -INFO -Entered username as Admin 
+2021-04-06 11:17:49,514 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-06 11:17:57,563 - SPDAP -INFO -clicked on login button
+2021-04-06 11:18:00,784 - SPDAP -INFO - Clicked on Phone Log
+2021-04-06 11:18:04,045 - SPDAP -INFO - Clicked on Add New PhoneLog
+2021-04-06 11:18:06,355 - SPDAP -INFO - Clicked on Existing Member ->existing member
+2021-04-06 11:18:06,559 - SPDAP -INFO -Entered MemberID Number -> as 12
+2021-04-06 11:18:08,160 - SPDAP -INFO -selected  document type -> as SilverScript Choice (PDP)
+2021-04-06 11:18:09,631 - SPDAP -INFO -selected  phone Value -> as Mobile Phone
+2021-04-06 11:18:09,813 - SPDAP -INFO -Entered Registered Phone Number -> as (333) 555-5555
+2021-04-06 11:18:11,032 - SPDAP -INFO -Entered ext Value -> as 12345
+2021-04-06 11:18:12,498 - SPDAP -INFO -selected  Title Value -> as Mr.
+2021-04-06 11:18:13,686 - SPDAP -INFO -Entered first Name -> as Puneeth
+2021-04-06 11:18:14,906 - SPDAP -INFO -Entered last Name -> as Malepati
+2021-04-06 11:18:16,121 - SPDAP -INFO -Entered middle Name -> as None
+2021-04-06 11:18:17,375 - SPDAP -INFO -Entered Email Value -> as puneethmalepati@gmail.com
+2021-04-06 11:18:18,574 - SPDAP -INFO -Entered address Value -> as ISSI-HYD
+2021-04-06 11:18:19,772 - SPDAP -INFO -Entered city Value -> as ISSIHYD
+2021-04-06 11:18:21,303 - SPDAP -INFO -selected  state Value -> as Alaska
+2021-04-06 11:18:22,950 - SPDAP -INFO -selected  county Value -> as Bethel Census Area
+2021-04-06 11:18:24,200 - SPDAP -INFO -Entered zipCode Value -> as 12345
+2021-04-06 11:18:25,711 - SPDAP -INFO -selected  call Type Value -> as Inquiring about PDP Options
+2021-04-06 11:18:27,241 - SPDAP -INFO -selected  Call Reason Value -> as Call Reason
+2021-04-06 11:18:33,208 - SPDAP -INFO -Entered call Date Value -> as 04/06/2021
+2021-04-06 11:18:37,171 - SPDAP -INFO -Entered Call Start Time -> as 00:10:10
+2021-04-06 11:18:40,615 - SPDAP -INFO -Entered Call EndTime Value -> as 00:10:12
+2021-04-06 11:27:13,680 - SPDAP -INFO -chrome was started successfully
+2021-04-06 11:27:14,638 - SPDAP -INFO -Entered username as Admin 
+2021-04-06 11:27:14,767 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-06 11:27:23,162 - SPDAP -INFO -clicked on login button
+2021-04-06 11:27:26,871 - SPDAP -INFO - Clicked on Phone Log
+2021-04-06 11:27:30,536 - SPDAP -INFO - Clicked on Add New PhoneLog
+2021-04-06 11:27:32,756 - SPDAP -INFO - Clicked on Existing Member ->existing member
+2021-04-06 11:27:32,938 - SPDAP -INFO -Entered MemberID Number -> as 12
+2021-04-06 11:27:34,531 - SPDAP -INFO -selected  document type -> as SilverScript Choice (PDP)
+2021-04-06 11:27:36,018 - SPDAP -INFO -selected  phone Value -> as Mobile Phone
+2021-04-06 11:27:36,186 - SPDAP -INFO -Entered Registered Phone Number -> as (333) 555-5555
+2021-04-06 11:27:37,389 - SPDAP -INFO -Entered ext Value -> as 12345
+2021-04-06 11:27:38,833 - SPDAP -INFO -selected  Title Value -> as Mr.
+2021-04-06 11:27:40,001 - SPDAP -INFO -Entered first Name -> as Puneeth
+2021-04-06 11:27:41,169 - SPDAP -INFO -Entered last Name -> as Malepati
+2021-04-06 11:27:42,359 - SPDAP -INFO -Entered middle Name -> as None
+2021-04-06 11:27:43,605 - SPDAP -INFO -Entered Email Value -> as puneethmalepati@gmail.com
+2021-04-06 11:27:44,799 - SPDAP -INFO -Entered address Value -> as ISSI-HYD
+2021-04-06 11:27:45,961 - SPDAP -INFO -Entered city Value -> as ISSIHYD
+2021-04-06 11:27:47,478 - SPDAP -INFO -selected  state Value -> as Alaska
+2021-04-06 11:27:49,028 - SPDAP -INFO -selected  county Value -> as Bethel Census Area
+2021-04-06 11:27:50,202 - SPDAP -INFO -Entered zipCode Value -> as 12345
+2021-04-06 11:27:51,709 - SPDAP -INFO -selected  call Type Value -> as Inquiring about PDP Options
+2021-04-06 11:27:53,128 - SPDAP -INFO -selected  Call Reason Value -> as Call Reason
+2021-04-06 11:27:59,362 - SPDAP -INFO -Entered call Date Value -> as 04/06/2021
+2021-04-06 11:28:01,973 - SPDAP -INFO -Entered Call Start Time -> as 00:10:10
+2021-04-06 11:28:04,588 - SPDAP -INFO -Entered Call EndTime Value -> as 00:10:12
+2021-04-06 11:29:27,976 - SPDAP -INFO -chrome was started successfully
+2021-04-06 11:29:28,517 - SPDAP -INFO -Entered username as Admin 
+2021-04-06 11:29:28,675 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-06 11:29:36,443 - SPDAP -INFO -clicked on login button
+2021-04-06 11:29:39,377 - SPDAP -INFO - Clicked on Phone Log
+2021-04-06 11:29:42,589 - SPDAP -INFO - Clicked on Add New PhoneLog
+2021-04-06 11:29:44,890 - SPDAP -INFO - Clicked on Existing Member ->existing member
+2021-04-06 11:29:45,069 - SPDAP -INFO -Entered MemberID Number -> as 12
+2021-04-06 11:29:46,619 - SPDAP -INFO -selected  document type -> as SilverScript Choice (PDP)
+2021-04-06 11:29:48,043 - SPDAP -INFO -selected  phone Value -> as Mobile Phone
+2021-04-06 11:29:48,211 - SPDAP -INFO -Entered Registered Phone Number -> as (333) 555-5555
+2021-04-06 11:29:49,380 - SPDAP -INFO -Entered ext Value -> as 12345
+2021-04-06 11:29:50,788 - SPDAP -INFO -selected  Title Value -> as Mr.
+2021-04-06 11:29:51,977 - SPDAP -INFO -Entered first Name -> as Puneeth
+2021-04-06 11:29:53,180 - SPDAP -INFO -Entered last Name -> as Malepati
+2021-04-06 11:29:54,357 - SPDAP -INFO -Entered middle Name -> as None
+2021-04-06 11:29:55,561 - SPDAP -INFO -Entered Email Value -> as puneethmalepati@gmail.com
+2021-04-06 11:29:56,757 - SPDAP -INFO -Entered address Value -> as ISSI-HYD
+2021-04-06 11:29:57,928 - SPDAP -INFO -Entered city Value -> as ISSIHYD
+2021-04-06 11:29:59,413 - SPDAP -INFO -selected  state Value -> as Alaska
+2021-04-06 11:30:01,058 - SPDAP -INFO -selected  county Value -> as Bethel Census Area
+2021-04-06 11:30:02,220 - SPDAP -INFO -Entered zipCode Value -> as 12345
+2021-04-06 11:30:03,728 - SPDAP -INFO -selected  call Type Value -> as Inquiring about PDP Options
+2021-04-06 11:30:05,133 - SPDAP -INFO -selected  Call Reason Value -> as Call Reason
+2021-04-06 11:30:08,770 - SPDAP -INFO -Entered call Date Value -> as 04/06/2021
+2021-04-06 11:30:11,089 - SPDAP -INFO -Entered Call Start Time -> as 00:10:10
+2021-04-06 11:30:13,585 - SPDAP -INFO -Entered Call EndTime Value -> as 00:10:12
+2021-04-06 15:41:27,463 - SPDAP -INFO -chrome was started successfully
+2021-04-06 15:41:27,934 - SPDAP -INFO -Entered username as Admin 
+2021-04-06 15:41:28,079 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-06 15:41:36,017 - SPDAP -INFO -clicked on login button
+2021-04-06 15:41:39,560 - SPDAP -INFO - Clicked on Phone Log
+2021-04-06 15:41:43,613 - SPDAP -INFO - Clicked on Add New PhoneLog
+2021-04-06 15:41:46,260 - SPDAP -INFO - Clicked on Existing Member ->existing member
+2021-04-06 15:41:46,421 - SPDAP -INFO -Entered MemberID Number -> as 12
+2021-04-06 15:41:47,945 - SPDAP -INFO -selected  document type -> as SilverScript Choice (PDP)
+2021-04-06 15:41:49,397 - SPDAP -INFO -selected  phone Value -> as Mobile Phone
+2021-04-06 15:41:49,573 - SPDAP -INFO -Entered Registered Phone Number -> as (333) 555-5555
+2021-04-06 15:41:50,735 - SPDAP -INFO -Entered ext Value -> as 12345
+2021-04-06 15:41:52,146 - SPDAP -INFO -selected  Title Value -> as Mr.
+2021-04-06 15:41:53,326 - SPDAP -INFO -Entered first Name -> as Puneeth
+2021-04-06 15:41:54,507 - SPDAP -INFO -Entered last Name -> as Malepati
+2021-04-06 15:41:55,651 - SPDAP -INFO -Entered middle Name -> as None
+2021-04-06 15:41:56,854 - SPDAP -INFO -Entered Email Value -> as puneethmalepati@gmail.com
+2021-04-06 15:41:58,046 - SPDAP -INFO -Entered address Value -> as ISSI-HYD
+2021-04-06 15:41:59,231 - SPDAP -INFO -Entered city Value -> as ISSIHYD
+2021-04-06 15:42:00,716 - SPDAP -INFO -selected  state Value -> as Alaska
+2021-04-06 15:42:02,248 - SPDAP -INFO -selected  county Value -> as Bethel Census Area
+2021-04-06 15:42:03,440 - SPDAP -INFO -Entered zipCode Value -> as 12345
+2021-04-06 15:42:04,990 - SPDAP -INFO -selected  call Type Value -> as Inquiring about PDP Options
+2021-04-06 15:42:06,496 - SPDAP -INFO -selected  Call Reason Value -> as Call Reason
+2021-04-06 15:42:07,734 - SPDAP -INFO -Entered call Date Value -> as 04/06/2021
+2021-04-06 15:42:08,905 - SPDAP -INFO -Entered Call Start Time -> as 00:10:10
+2021-04-06 15:42:10,106 - SPDAP -INFO -Entered Call EndTime Value -> as 00:10:12
+2021-04-06 15:42:11,328 - SPDAP -INFO -Entered CallNotes Value -> as ISSI-HYD
+2021-04-06 15:42:12,562 - SPDAP -INFO - Clicked on Application packet sent to the contact person ->Yes
+2021-04-06 15:42:13,752 - SPDAP -INFO -Entered Packet Number Value -> as 14
+2021-04-06 15:42:14,942 - SPDAP -INFO -Entered Form Number Value -> as 1,2,3
+2021-04-06 15:42:16,203 - SPDAP -INFO - Clicked on address Value ->Yes
+2021-04-06 15:42:23,068 - SPDAP -INFO - Clicked on Click on Save Button
+2021-04-06 15:42:29,361 - SPDAP -INFO -Entered Search Phone -> as (333) 555-5555
+2021-04-06 15:42:32,803 - SPDAP -INFO -chrome was closed successfully
+2021-04-06 15:44:10,535 - SPDAP -INFO -chrome was started successfully
+2021-04-06 15:44:11,097 - SPDAP -INFO -Entered username as Admin 
+2021-04-06 15:44:11,230 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-06 15:44:19,280 - SPDAP -INFO -clicked on login button
+2021-04-06 15:44:22,784 - SPDAP -INFO - Clicked on Phone Log
+2021-04-06 15:44:26,405 - SPDAP -INFO - Clicked on Add New PhoneLog
+2021-04-06 15:44:28,648 - SPDAP -INFO - Clicked on Existing Member ->existing member
+2021-04-06 15:44:28,829 - SPDAP -INFO -Entered MemberID Number -> as 12
+2021-04-06 15:44:30,386 - SPDAP -INFO -selected  document type -> as SilverScript Choice (PDP)
+2021-04-06 15:44:31,852 - SPDAP -INFO -selected  phone Value -> as Mobile Phone
+2021-04-06 15:44:32,052 - SPDAP -INFO -Entered Registered Phone Number -> as (333) 555-5555
+2021-04-06 15:44:33,245 - SPDAP -INFO -Entered ext Value -> as 12345
+2021-04-06 15:44:34,700 - SPDAP -INFO -selected  Title Value -> as Mr.
+2021-04-06 15:44:35,873 - SPDAP -INFO -Entered first Name -> as Puneeth
+2021-04-06 15:44:37,060 - SPDAP -INFO -Entered last Name -> as Malepati
+2021-04-06 15:44:38,262 - SPDAP -INFO -Entered middle Name -> as None
+2021-04-06 15:44:39,518 - SPDAP -INFO -Entered Email Value -> as puneethmalepati@gmail.com
+2021-04-06 15:44:40,728 - SPDAP -INFO -Entered address Value -> as ISSI-HYD
+2021-04-06 15:44:41,907 - SPDAP -INFO -Entered city Value -> as ISSIHYD
+2021-04-06 15:44:43,422 - SPDAP -INFO -selected  state Value -> as Alaska
+2021-04-06 15:44:45,008 - SPDAP -INFO -selected  county Value -> as Bethel Census Area
+2021-04-06 15:44:46,230 - SPDAP -INFO -Entered zipCode Value -> as 12345
+2021-04-06 15:44:47,792 - SPDAP -INFO -selected  call Type Value -> as Inquiring about PDP Options
+2021-04-06 15:44:49,252 - SPDAP -INFO -selected  Call Reason Value -> as Call Reason
+2021-04-06 15:44:50,507 - SPDAP -INFO -Entered call Date Value -> as 04/06/2021
+2021-04-06 15:44:51,697 - SPDAP -INFO -Entered Call Start Time -> as 00:10:10
+2021-04-06 15:44:52,898 - SPDAP -INFO -Entered Call EndTime Value -> as 00:10:12
+2021-04-06 15:44:54,148 - SPDAP -INFO -Entered CallNotes Value -> as ISSI-HYD
+2021-04-06 15:44:55,408 - SPDAP -INFO - Clicked on Application packet sent to the contact person ->Yes
+2021-04-06 15:44:56,634 - SPDAP -INFO -Entered Packet Number Value -> as 14
+2021-04-06 15:44:57,811 - SPDAP -INFO -Entered Form Number Value -> as 1,2,3
+2021-04-06 15:44:59,021 - SPDAP -INFO - Clicked on address Value ->Yes
+2021-04-06 15:45:12,642 - SPDAP -INFO - Clicked on Click on Save Button
+2021-04-06 15:45:31,213 - SPDAP -INFO -Entered Search Phone -> as (333) 555-5555
+2021-04-07 12:09:35,083 - SPDAP -INFO -chrome was started successfully
+2021-04-07 12:09:35,899 - SPDAP -INFO -Entered username as Admin 
+2021-04-07 12:09:36,034 - SPDAP -INFO -Entered password as Issi123# 
+2021-04-07 12:09:45,998 - SPDAP -INFO -clicked on login button
+2021-04-07 12:09:47,210 - SPDAP -INFO -chrome was closed successfully

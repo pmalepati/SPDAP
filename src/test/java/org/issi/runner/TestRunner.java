@@ -8,10 +8,10 @@ import org.junit.runner.RunWith;
 
 @CucumberOptions(
 
-        features = {"src/test/resources/Appfeatures/TC012_ReportsGenerates.feature"},
+        features = {"src/test/resources/Appfeatures/TC008_COBProcessing_CODInput.feature"},
         glue = {"org.issi.stepdefinitions","org.issi.hooks"},
-        dryRun = false, // to check mapping make it 'true' (or) to execute your script makesure it is in 'false'
-        tags = "@MembershipDistributionbyPlan",
+        dryRun = true, // to check mapping make it 'true' (or) to execute your script makesure it is in 'false'
+        tags = "@GenerateCOBInputFile",
         //tags = "not @regression or @smoke or @sanity",
         plugin = {"pretty",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",

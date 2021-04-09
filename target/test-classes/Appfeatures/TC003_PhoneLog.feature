@@ -25,8 +25,8 @@ Feature: PhoneLog feature
     Then user click on save from given sheet name
     Then User search the value from given sheet name "Phone Log" and <RowNumber>
     Then user click on edit button
-    Then User search the value in the Phone log information from given sheet name "Phone Log" and <RowNumber>
-    Then user click on edit button in the Phone log information
+  #  Then User search the value in the Phone log information from given sheet name "Phone Log" and <RowNumber>
+   # Then user click on edit button in the Phone log information
     Then User click on save button
     Then user click on bulk print button in phone log
     Then User search the value from given sheet name "Phone Log" and <RowNumber>

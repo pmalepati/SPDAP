@@ -21,26 +21,29 @@ public final class PhoneLogPage extends BasePage {
     protected PhoneLogPage() {
 
     }
+
     public  final static By clickOnPhoneLog=By.xpath("//a[text()='Phone Log']");
     public static void clickOnPhoneLog(){
         waitupto(1000);
         clickOn(clickOnPhoneLog, WaitStrategy.CLICKABLE,"Phone Log");
         waitupto(1000);
     }
+
     public  final static By clickOnAddNewPhoneLog=By.xpath("//a[@id='addnewPhonelog']");
     public static void clickOnAddNewPhoneLog(){
         waitupto(1000);
         clickOn(clickOnAddNewPhoneLog, WaitStrategy.CLICKABLE,"Add New PhoneLog");
         waitupto(1000);
     }
+
     public  final static By clickOnExistingMember_Yes=By.xpath("//input[@id='rbtnexistingmemberY']");
     public  final static By clickOnExistingMember_No=By.xpath("//input[@id='rbtnexistingmemberN']");
 
     public static void clickOnExistingMember(String Number){
-        if (Number.equalsIgnoreCase("Yes")){
+        if (Number.equalsIgnoreCase("existing member")){
             clickOn(clickOnExistingMember_Yes, WaitStrategy.CLICKABLE,"Existing Member ->"+Number);
 
-        }else if (Number.equalsIgnoreCase("No")){
+        }else if (Number.equalsIgnoreCase("PDP")){
             clickOn(clickOnExistingMember_No, WaitStrategy.CLICKABLE,"Existing Member ->"+Number);
         }
     }
@@ -57,28 +60,24 @@ public final class PhoneLogPage extends BasePage {
         waitupto(1000);
     }
 
-
     private static final By workPhoneRadBtn = By.xpath("//select[@id='ddlCallerPhoneType']");
     public static void selectPhoneType(String phoneValue){
         selectFromDrpDwn(workPhoneRadBtn,WaitStrategy.CLICKABLE,phoneValue,"phone Value ->");
     }
 
     private static final By registeredPhoneNumberBtn = By.xpath("//input[@id='txtPhoneNum']");
-
     public static void enterDocumentName(String phoneNumber){
         enterText(registeredPhoneNumberBtn,phoneNumber,WaitStrategy.PRESENCE,"Registered Phone Number ->");
         waitupto(1000);
     }
 
     private static final By extBtn = By.xpath("//input[@id='txtExtNum']");
-
     public static void enterextValue(String extValue){
         enterText(extBtn,extValue,WaitStrategy.PRESENCE,"ext Value ->");
         waitupto(1000);
     }
 
     private static final By titleDropDown = By.xpath("//select[@id='ddlTitle']");
-
     public static void selecttitle(String titleValue){
         selectFromDrpDwn(titleDropDown,WaitStrategy.CLICKABLE,titleValue,"Title Value ->");
         waitupto(1000);

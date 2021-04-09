@@ -50,7 +50,6 @@ public class BasePage {
             js.executeScript("arguments[0].click();",element);
         }
         log().info(" Clicked on " +elementName );
-
     }
 
     /*
